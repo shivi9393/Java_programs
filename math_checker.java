@@ -49,13 +49,14 @@ public class math_checker {
                 break;
             }
             case "d":{
-                int div=b/a;
-                int inpt=2;
+                int c=20;
+                float div=c/3.00f;//ifone value is float then divison will return float value
+                float inpt=2.00f;
                 if(inpt==div){
-                    System.out.println("correct");
+                    System.out.println("correct the answer is:"+div);
                 }
                 else{
-                    System.out.println("incorrect");
+                    System.out.println("incorrect the sum should be: "+div);
                 }
                 // System.out.println("division of two numbers is:"+div);
                 break;
@@ -74,7 +75,7 @@ public class math_checker {
             }
         
                 
-        
+    
             
         }
      
