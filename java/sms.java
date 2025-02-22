@@ -43,7 +43,9 @@ public class sms {
 
         student obj[]=new student[5];//array of objects 
         obj[0]=new student(m,r,name);
-        obj[0].get();
+        // obj[0].get();
+        obj[1]=obj[0];
+        obj[1].get();
        sc.close();
     }
 }

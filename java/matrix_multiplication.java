@@ -39,7 +39,7 @@ public class matrix_multiplication {
             }
         }
      
-     
+     sc.close();
 
 
 

@@ -1,0 +1,46 @@
+user interface  
+   1. home 
+   2.link button to add new reminder
+   3.delete a reminder
+   4.update a reminder
+   5.view a reminder
+   6.search a reminder
+   7.reminder insertion(form)
+   8.delete are you sure form 
+   9.update form
+   10.serach tab
+
+database 
+    id
+    title
+    type/category(eg.birthday marriage annivarsy imp dates)
+    message(note)
+    date and time of addition and reminder
+    sendto 
+    phoneno of reciptent 
+    mail
+    
+
+
+
+
+
+
+
+
+
+title of reminder 
+reminder type
+reminder delete 
+reminder message 
+make sound 
+
+
+
+
+
+
+
+
+sms whatsapp email automated
+speak functionality
